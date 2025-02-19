@@ -1,0 +1,9 @@
+/.idea/
+# Python cache files
+__pycache__/
+*.pyc
+*.txt
+.env
+
+.ipynb_checkpoints/untitled-checkpoint.env
+big_project/EXAONE-3.5-2.4B-Instruct_finetuning_v2/adapter_model.safetensors
