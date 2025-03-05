@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 *.txt
 .env
-
+.gradio
 .ipynb_checkpoints/untitled-checkpoint.env
 big_project/EXAONE-3.5-2.4B-Instruct_finetuning_v2/adapter_model.safetensors
 143.민원_업무_효율,_자동화를_위한_언어_AI_학습데이터/
